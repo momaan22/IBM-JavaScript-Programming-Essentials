@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Global Market Trends",
+      "description": "An overview of current trends in global financial markets."
+    },
+    {
+      "title": "Technology Breakthroughs",
+      "description": "Recent advances in artificial intelligence and robotics."
+    },
+    {
+      "title": "Local Community Updates",
+      "description": "Highlights of recent events and initiatives in the local community."
+    }
+  ]
+}
